@@ -3,3 +3,4 @@
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
+using sass-rails 5.0.0.beta1
